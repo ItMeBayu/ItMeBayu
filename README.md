@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Bayu Artha | AI Engineer Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: auto; padding: 20px; }
-    h1, h2 { color: #1f2937; }
-    .project { margin-bottom: 20px; }
-  </style>
-</head>
-<body>
 
 <h1>I Kadek Bayu Danu Artha</h1>
 <p>AI Engineer | Computer Vision | Machine Learnin</p>
