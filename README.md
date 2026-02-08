@@ -29,14 +29,18 @@ The topic of my thesis is related to the calculation and evaluation of push-up m
 <div class="project">
   <h3>AI Push-Up Form Classification</h3>
   <p>LSTM-based real-time push-up movement classification (10 classes).</p>
-  <a href="https://github.com/username/project-link">View Project</a>
+  <a href="https://github.com/ItMeBayu/Classification-Push-Up-Movements">View Project</a>
 </div>
 <div class="project">
   <h3>Classification of FMD Diseases in Cattle</h3>
   <p>Image classification with CNN for early detection of FMD in cattle.</p>
-  <a href="https://github.com/username/project-link">View Project</a>
+  <a href="https://github.com/ItMeBayu/Cattle-FMD-Detection">View Project</a>
 </div>
-
+<div class="project">
+  <h3>Determining the Best Route</h3>
+  <p>Creating a program with a backtracking algorithm using simulation data.</p>
+  <a href="https://github.com/ItMeBayu/Determining-Best-Route">View Project</a>
+</div>
 <br>
 
 <h2>Contact</h2>
